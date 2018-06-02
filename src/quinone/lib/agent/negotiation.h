@@ -1,0 +1,4 @@
+#ifndef NEGOTIATION_H
+#define NEGOTIATION_H
+
+#endif  // NEGOTIATION_H

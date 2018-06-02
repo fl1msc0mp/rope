@@ -1,0 +1,21 @@
+Atmoz
+
+abstract
+In this paper we hope to introduce a new blockchain-based distributed computing platform. 
+
+Existing Platforms 
+
+Talk about ethereum ... then eos etc. 
+
+Smart Contracts 
+
+Implementation 
+
+Global Registry 
+
+Base Currency 
+
+Governance
+
+
+Conclusions

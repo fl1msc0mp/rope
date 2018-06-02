@@ -1,0 +1,4 @@
+#ifndef SUBSTITUTION_H
+#define SUBSTITUTION_H
+
+#endif  // SUBSTITUTION_H

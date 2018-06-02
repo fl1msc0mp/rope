@@ -1,0 +1,4 @@
+#ifndef MECHANISM_HPP
+#define MECHANISM_HPP
+
+#endif  // MECHANISM_HPP

@@ -1,0 +1,9 @@
+#ifndef EXCHANGE_HPP
+#define EXCHANGE_HPP
+
+namespace exchange {
+namespace {
+class Exchange {};
+}  // namespace
+}  // namespace exchange
+#endif  // EXCHANGE_HPP

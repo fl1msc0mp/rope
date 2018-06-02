@@ -1,0 +1,4 @@
+#ifndef SERVICE_DISCOVERY_H_
+#define SERVICE_DISCOVERY_H_
+
+#endif

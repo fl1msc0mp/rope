@@ -1,0 +1,10 @@
+[package]
+name = "scrypt"
+version = "0.1.0"
+
+[dependencies]
+
+
+[lib]
+name = "scrypt"
+crate-type = ["rlib", "cdylib"]

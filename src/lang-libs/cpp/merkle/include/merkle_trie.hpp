@@ -1,0 +1,4 @@
+#ifndef MERKLE_TRIE_HPP
+#define MERKLE_TRIE_HPP
+
+#endif  // MERKLE_TRIE_HPP

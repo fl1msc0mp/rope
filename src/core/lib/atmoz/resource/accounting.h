@@ -1,0 +1,4 @@
+#ifndef RESOURCES_ACCOUNTING_H_
+#define RESOURCES_ACCOUNTING_H_
+
+#endif
